@@ -3,105 +3,90 @@
         "id": 1,
         "name": "Lost Ark",
         "price": 9.99,
-        "desc": "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat in this action-packed free-to-play RPG.",
         "imgUrl": "/items/lost-ark.jpg"
     },
     {
         "id": 2,
         "name": "NARAKA: BLADEPOINT",
         "price": 14.99,
-        "desc": "NARAKA: BLADEPOINT is an up to 60-player PVP mythical action combat experience with martial arts inspired melee combat, gravity defying mobility, vast arsenals of melee & ranged weapons, legendary customizable heroes with epic abilities - inspired by the legends of the Far East.",
         "imgUrl": "/items/naraka.jpg"
     },
     {
         "id": 3,
         "name": "Rust",
         "price": 29.99,
-        "desc": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife and other inhabitants, the environment, other survivors. Do whatever it takes to last another night.",
         "imgUrl": "/items/rust.jpg"
     },
     {
         "id": 4,
         "name": "Warzone 2.0",
         "price": 59.99,
-        "desc": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
         "imgUrl": "/items/warzone2.jpg"
     },
     {
         "id": 5,
         "name": "PAYDAY 2",
         "price": 5.99,
-        "desc": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
         "imgUrl": "/items/payday2.jpg"
     },
     {
         "id": 6,
         "name": "Crab Champions",
         "price": 7.99,
-        "desc": "Claw your way across exotic islands combining fluid movement with fast paced combat to become a Crab Champion in this third person shooter with roguelike elements.",
         "imgUrl": "/items/crab.jpg"
     },
     {
         "id": 7,
         "name": "Smalland: Survive the Wilds",
         "price": 14.99,
-        "desc": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.",
         "imgUrl": "/items/smalland.jpg"
     },
     {
         "id": 8,
         "name": "DREDGE",
         "price": 15.99,
-        "desc": "DREDGE is a single-player fishing adventure with a sinister undercurrent. Sell your catch, upgrade your boat, and dredge the depths for long-buried secrets. Explore a mysterious archipelago and discover why some things are best left forgotten.",
         "imgUrl": "/items/dredge.jpg"
     },
     {
         "id": 9,
         "name": "Resident Evil 4",
         "price": 49.99,
-        "desc": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
         "imgUrl": "/items/resident-evil.jpg"
     },
     {
         "id": 10,
         "name": "ARK: Survival Evolved",
         "price": 9.99,
-        "desc": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
         "imgUrl": "/items/ark.jpg"
     },
     {
         "id": 11,
         "name": "Sid Meier's Civilization VI",
         "price": 39.99,
-        "desc": "Civilization VI is the newest installment in the award winning Civilization Franchise. Expand your empire, advance your culture and go head-to-head against history’s greatest leaders. Will your civilization stand the test of time?",
         "imgUrl": "/items/civ.jpg"
     },
     {
         "id": 12,
         "name": "Terraria",
         "price": 4.99,
-        "desc": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
         "imgUrl": "/items/terraria.jpg"
     },
     {
         "id": 13,
         "name": "EA SPORTS™ FIFA 23",
         "price": 20.99,
-        "desc": "FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology, men’s and women’s FIFA World Cup™coming during the season, women’s club teams, cross-play features*, and more.",
         "imgUrl": "/items/fifa23.jpg"
     },
     {
         "id": 14,
         "name": "DayZ",
         "price": 29.99,
-        "desc": "How long can you survive a post-apocalyptic world? A land overrun with an infected 'zombie' population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
         "imgUrl": "/items/dayz.jpg"
     },
     {
         "id": 15,
         "name": "ELDEN RING",
         "price": 39.99,
-        "desc": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
         "imgUrl": "/items/elden-ring.jpg"
     }
 ]
