@@ -50,7 +50,7 @@ export function ShoppingCartProvider({ children }) {
 
     const decreaseCartQuantity = (id) => {
         setCartItems((items) => {
-            if (items.find((item) => item.id === id) === 1) {
+            if (items.find((item) => item.id === id).quantity <= 1) {
                 return items.filter((item) => item.id !== id);
             } else {
                 return items.map((item) => {
