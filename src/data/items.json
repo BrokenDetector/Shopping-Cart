@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Lost Ark",
+        "price": 9.99,
+        "imgUrl": "/items/lost-ark.jpg"
+    },
+    {
+        "id": 2,
+        "name": "NARAKA: BLADEPOINT",
+        "price": 14.99,
+        "imgUrl": "/items/naraka.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rust",
+        "price": 29.99,
+        "imgUrl": "/items/rust.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Warzone 2.0",
+        "price": 59.99,
+        "imgUrl": "/items/warzone2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "PAYDAY 2",
+        "price": 5.99,
+        "imgUrl": "/items/payday2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Crab Champions",
+        "price": 7.99,
+        "imgUrl": "/items/crab.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Smalland: Survive the Wilds",
+        "price": 14.99,
+        "imgUrl": "/items/smalland.jpg"
+    },
+    {
+        "id": 8,
+        "name": "DREDGE",
+        "price": 15.99,
+        "imgUrl": "/items/dredge.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Resident Evil 4",
+        "price": 49.99,
+        "imgUrl": "/items/resident-evil.jpg"
+    },
+    {
+        "id": 10,
+        "name": "ARK: Survival Evolved",
+        "price": 9.99,
+        "imgUrl": "/items/ark.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Sid Meier's Civilization VI",
+        "price": 39.99,
+        "imgUrl": "/items/civ.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Terraria",
+        "price": 4.99,
+        "imgUrl": "/items/terraria.jpg"
+    },
+    {
+        "id": 13,
+        "name": "EA SPORTS™ FIFA 23",
+        "price": 20.99,
+        "imgUrl": "/items/fifa23.jpg"
+    },
+    {
+        "id": 14,
+        "name": "DayZ",
+        "price": 29.99,
+        "imgUrl": "/items/dayz.jpg"
+    },
+    {
+        "id": 15,
+        "name": "ELDEN RING",
+        "price": 39.99,
+        "imgUrl": "/items/elden-ring.jpg"
+    }
+]
