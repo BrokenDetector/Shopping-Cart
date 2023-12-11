@@ -8,7 +8,7 @@ function Footer() {
                     BrokenDetector
                 </a>
             </p>
-            <img className="w-6 h-auto ml-1" src="/github-mark.svg" />
+            <img className="w-6 h-auto ml-1" src="./github-mark.svg" />
         </footer>
     );
 }

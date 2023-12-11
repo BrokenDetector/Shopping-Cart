@@ -1,4 +1,4 @@
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Main from "./components/Main";
@@ -6,13 +6,13 @@ import { ShoppingCartProvider } from "./context/useShoppingCartContext";
 
 function App() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <ShoppingCartProvider>
                 <Header />
                 <Main />
                 <Footer />
             </ShoppingCartProvider>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 

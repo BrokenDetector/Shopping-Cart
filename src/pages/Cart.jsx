@@ -10,11 +10,11 @@ function Cart() {
         <>
             {cartItems.length != 0 ? (
                 <div className="flex flex-col">
-                    <div className="grid xl:grid-cols-5 md:grid-cols-3 gap-3">
+                    <div className="grid xl:grid-cols-5 md:grid-cols-3 gap-3 m-3 md:m-7">
                         {cartItems.map((currItem) => {
                             const item = items.find((i) => i.id === currItem.id);
                             return (
-                                <div key={item.id} className="bg-white rounded-xl drop-shadow-lg my-5 p-5 GRID grid-rows-1 items-center">
+                                <div key={item.id} className="bg-white rounded-xl drop-shadow-lg my-5 p-5 grid-rows-1 items-center">
                                     <div>
                                         <h2 className="hover:text-lime-700 duration-100 font-bold text-xl">{item.name}</h2>
                                         <img src={item.imgUrl} className="my-2" />
@@ -23,7 +23,7 @@ function Cart() {
                                     <div className="mt-4 flex flex-col justify-center">
                                         <div className="flex justify-center">
                                             <button
-                                                className="bg-red-500 p-2 px-4 rounded-md"
+                                                className="bg-red-500 p-2 px-4 rounded-md hover:bg-red-600 active:bg-red-700"
                                                 onClick={() => decreaseCartQuantity(item.id)}
                                             >
                                                 -
@@ -33,14 +33,14 @@ function Cart() {
                                                 <p className="text-sm ml-1">x</p>
                                             </div>
                                             <button
-                                                className="bg-lime-500 p-2 px-4 rounded-md"
+                                                className="bg-lime-500 p-2 px-4 rounded-md hover:bg-lime-600 active:bg-lime-700"
                                                 onClick={() => increaseCartQuantity(item.id)}
                                             >
                                                 +
                                             </button>
                                         </div>
                                         <button
-                                            className="bg-red-600 text-white my-4 p-2 px-10 rounded-lg"
+                                            className="bg-red-600 text-white my-4 p-2 px-10 rounded-lg hover:bg-red-700 active:bg-red-800"
                                             onClick={() => removeFromCart(item.id)}
                                         >
                                             Remove
@@ -61,7 +61,9 @@ function Cart() {
                                 }, 0)
                             )}
                         </h4>
-                        <button className="my-4 bg-lime-500 p-2 px-4 rounded-md">I'm Ready to Buy {cartQuantity} keys!</button>
+                        <button className="my-4 bg-lime-500 p-2 px-4 rounded-md hover:bg-lime-600 active:bg-lime-700">
+                            I'm Ready to Buy {cartQuantity} keys{" "}
+                        </button>
                     </div>
                 </div>
             ) : (
